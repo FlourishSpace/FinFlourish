@@ -21,4 +21,4 @@
 
 ### Related Influential Companies 
 
-## Realted Influential People (academia & industry)
+### Realted Influential People (academia & industry)
