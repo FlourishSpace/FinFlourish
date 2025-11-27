@@ -1,7 +1,7 @@
 # FinFlourish
 
 
-Financial AI and Quantitative Investment Guidelines
+## Financial AI and Quantitative Investment Guidelines
 
 ### Introduction Documents
 
