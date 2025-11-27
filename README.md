@@ -3,22 +3,22 @@
 
 Financial AI and Quantitative Investment Guidelines
 
-## Introduction Documents
+### Introduction Documents
 
-## Related Books
+### Related Books
 
-## Top Journal and Conference Papers (with github or huggingfce project url)
+### Top Journal and Conference Papers (with github or huggingfce project url)
 
-## Infrastruture (Operating System, Computing Power, Comm and so on)
+### Infrastruture (Operating System, Computing Power, Comm and so on)
 
-## Influential Operating Platforms
+### Influential Operating Platforms
 
-## Influential Open-source Frameworks
+### Influential Open-source Frameworks
 
-## Influential Open-source Models
+### Influential Open-source Models
 
-## Influential Open-source Datasets
+### Influential Open-source Datasets
 
-## Related Influential Companies 
+### Related Influential Companies 
 
 ## Realted Influential People (academia & industry)
