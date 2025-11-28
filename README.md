@@ -11,14 +11,14 @@
 
 ### Infrastruture (Operating System, Computing Power, Comm and so on)
 
-### Influential Operating Platforms
+### Operating Platforms
 
-### Influential Open-source Frameworks
+### Open-source Frameworks
 
 ### Influential Open-source Models
 
 ### Influential Open-source Datasets
 
-### Related Influential Companies 
+### Companies 
 
-### Realted Influential People (academia & industry)
+### Influential People (academia & industry)
